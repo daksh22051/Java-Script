@@ -1,0 +1,12 @@
+Here is the text from the image:
+
+camelCase
+
+Way of writing identifiers
+
+1. camelCase (JS naming convention) ✅
+---->let fullName;
+2. snake_case
+---->let full_name;
+3. PascalCase
+---->let FullName;

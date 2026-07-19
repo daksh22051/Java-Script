@@ -1,0 +1,11 @@
+7--primitive datatypes
+1. number
+2. boolean
+3. string
+4. undefined 
+5. NULL
+6. Bigint 
+7. symbol
+
+
+

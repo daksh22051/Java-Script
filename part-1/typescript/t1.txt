@@ -1,0 +1,3 @@
+typescript is a statically typed language while js is a dynamically typed language
+--> it is designed by microsoft
+
