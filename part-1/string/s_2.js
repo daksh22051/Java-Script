@@ -13,5 +13,5 @@ console.log((str.length)); //20
 
 console.log((typeof(str.length))); //number
 
-console.log((str[str.length-1]));
+console.log((str[str.length-1]));//accessing the last character 
 

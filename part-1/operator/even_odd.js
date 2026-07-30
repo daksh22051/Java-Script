@@ -1,5 +1,5 @@
 a = 5
-if(a % 3==0)
+if(a % 2==0)
 {
     console.log("even");
     
